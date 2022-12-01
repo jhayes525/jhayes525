@@ -8,6 +8,9 @@
 - 🌱 I’m currently learning ... 
     --Speech Synthesis
     --Architectural Concepts and Patterns
+    --Python
+    --React
+    --.NetCore
     
 - 💞️ I’m looking to collaborate on ...
     --Dunno, maybe something recreational like games
