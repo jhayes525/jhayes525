@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @jhayes525
 - 👀 I’m interested in ...
-    --Automation
-    --Machine Learning
-    --AI
-    --Transhumanism
+    -Automation
+    -Machine Learning
+    -AI
+    -Transhumanism
 
 - 🌱 I’m currently learning ... 
     -Speech Synthesis
